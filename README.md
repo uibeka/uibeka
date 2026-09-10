@@ -21,6 +21,7 @@ independent agents find one another.
 ### Elsewhere
 
 - Bio and background: **[asymmetriq.ai/uchenna-ibeka](https://asymmetriq.ai/uchenna-ibeka)**
+- Personal site: [uibeka.github.io](https://uibeka.github.io)
 - ORCID: [0009-0003-6742-270X](https://orcid.org/0009-0003-6742-270X)
 - Lab: [asymmetriq.ai](https://asymmetriq.ai)
 - LinkedIn: [in/uchennaibeka](https://www.linkedin.com/in/uchennaibeka)
