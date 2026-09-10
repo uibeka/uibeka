@@ -24,6 +24,8 @@ independent agents find one another.
 - ORCID: [0009-0003-6742-270X](https://orcid.org/0009-0003-6742-270X)
 - Lab: [asymmetriq.ai](https://asymmetriq.ai)
 - LinkedIn: [in/uchennaibeka](https://www.linkedin.com/in/uchennaibeka)
+- Crunchbase: [uchenna-ibeka](https://www.crunchbase.com/person/uchenna-ibeka)
+- about.me: [uchennaibeka](https://about.me/uchennaibeka)
 - X: [@willofgod_](https://x.com/willofgod_)
 - YouTube: [@luckyuchiano](https://www.youtube.com/@luckyuchiano)
 - Instagram: [@luckyuchiano](https://www.instagram.com/luckyuchiano)
