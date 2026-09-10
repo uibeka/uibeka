@@ -28,7 +28,7 @@ independent agents find one another.
 - Crunchbase: [uchenna-ibeka](https://www.crunchbase.com/person/uchenna-ibeka)
 - about.me: [uchennaibeka](https://about.me/uchennaibeka)
 - X: [@willofgod_](https://x.com/willofgod_)
-- YouTube: [@luckyuchiano](https://www.youtube.com/@luckyuchiano)
+- YouTube: [@uibeka](https://www.youtube.com/@uibeka)
 - Instagram: [@luckyuchiano](https://www.instagram.com/luckyuchiano)
 - Facebook: [Uibeka](https://www.facebook.com/Uibeka)
 - SoundCloud: [uchenna-ibeka](https://soundcloud.com/uchenna-ibeka)
